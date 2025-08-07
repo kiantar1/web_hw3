@@ -27,6 +27,7 @@
 ### ساختار کلی
 src/
 ├── DrawingApp.js      # کامپوننت اصلی
+
 ├── DrawingApp.css     # استایل‌ها
 └── index.js          # نقطه ورود برنامه
 
