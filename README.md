@@ -29,6 +29,7 @@ src/
 ├── DrawingApp.js      # کامپوننت اصلی
 
 ├── DrawingApp.css     # استایل‌ها
+
 └── index.js          # نقطه ورود برنامه
 
 
@@ -74,12 +75,19 @@ const [selectedColor, setSelectedColor] = useState('#ff6b6b'); // رنگ انت�
 
 ### ساختار پروژه
 src/main/java/com/drawingapp/
+
 ├── config/
+
 ├── entity/
+
 ├── repository/
+
 ├── dto/
+
 ├── service/
+
 ├── controller/
+
 └── DataInitializer.java
 
 
